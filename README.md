@@ -1,1 +1,1 @@
-In these 30 Day's I will be reviewing my fundementals with python
+30 days of python I will be going over and testing my knowledge
