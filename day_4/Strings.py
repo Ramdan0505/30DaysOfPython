@@ -78,7 +78,7 @@ print(coding_acronym)  # 'CFA'
 print(company.index('C')) # 0
 
 # Use index to determine the position of the first occurrence of F in Coding For All.
-print(company.index('F')) # 7
+print(company.index('f')) # 7
 
 # Use rfind to determine the position of the last occurrence of l in Coding For All People.
 print(company.rfind('l')) # 14
