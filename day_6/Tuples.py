@@ -21,3 +21,7 @@ print(family_members)
 
 # Excercise Level 2
 # Unpack siblings and parents from family_members
+siblings, father, mother = family_members
+print(siblings)
+print(father)
+print(mother)
